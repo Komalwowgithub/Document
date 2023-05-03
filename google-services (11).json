@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "216789328282",
+    "project_id": "komalfirstapp",
+    "storage_bucket": "komalfirstapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216789328282:android:71539dbe15d15fb779da23",
+        "android_client_info": {
+          "package_name": "com.crudapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216789328282-g75hq49df3fv129ectt6lrir0cmt9mpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXBQjL_6NiTe8_lARWCT-U9n8UZH8P3vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216789328282-g75hq49df3fv129ectt6lrir0cmt9mpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216789328282:android:b2ce020f30f4907379da23",
+        "android_client_info": {
+          "package_name": "com.vtyh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216789328282-g75hq49df3fv129ectt6lrir0cmt9mpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXBQjL_6NiTe8_lARWCT-U9n8UZH8P3vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216789328282-g75hq49df3fv129ectt6lrir0cmt9mpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
